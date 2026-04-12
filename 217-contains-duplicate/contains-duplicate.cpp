@@ -1,17 +1,17 @@
 class Solution {
 public:
-    //here we have 3 ways
-    // bool containsDuplicate(vector<int>& nums) {
-    // unordered_set<int> seen;
+    //her we have 3 ways
+    bool containsDuplicate(vector<int>& nums) {
+    unordered_set<int> seen;
 
-    // for(int i=0; i<nums.size(); i++){ // int num:nums
-    //     if(seen.count(nums[i])){ //here we calculate count of i
-    //         return true;
-    //     }
-    //     seen.insert(nums[i]);
-    // }       
-    // return false;
-    // }
+    for(int i=0; i<nums.size(); i++){ // int num:nums
+        if(seen.count(nums[i])){ //here we calculate count of i
+            return true;
+        }
+        seen.insert(nums[i]);
+    }       
+    return false;
+    }
 
     /* // this is sorting approach
      bool containsDuplicate(vector<int>& nums) {
@@ -27,7 +27,7 @@ public:
     }
     */
 
-    // This is may approach
+    /*// This is may approach
     bool containsDuplicate(vector<int>& nums) {
         unordered_map<int, int> mp;
 
@@ -40,5 +40,5 @@ public:
 
         return false;
     }
-    
+    */
 };
