@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Math
@@ -41,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
