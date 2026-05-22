@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0283-move-zeroes) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Matrix
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
