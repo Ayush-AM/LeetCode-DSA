@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
