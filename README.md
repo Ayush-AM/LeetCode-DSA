@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -104,10 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
