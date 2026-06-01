@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0328-odd-even-linked-list) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
@@ -165,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
