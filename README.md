@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -187,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
