@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
