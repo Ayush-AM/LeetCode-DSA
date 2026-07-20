@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
+| [0212-word-search-ii](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0204-count-primes) |
+| [0212-word-search-ii](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0212-word-search-ii) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Two Pointers
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
+| [0212-word-search-ii](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0212-word-search-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0078-subsets) |
+| [0212-word-search-ii](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0212-word-search-ii) |
 ## Enumeration
 |  |
 | ------- |
