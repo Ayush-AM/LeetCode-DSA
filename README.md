@@ -1,11 +1,9 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-
 ## Tech Stack
-
-- **Languages**: C++
-
+|  |
+| ------- |
 ## String
 |  |
 | ------- |
@@ -13,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
+| [0076-minimum-window-substring](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0212-word-search-ii) |
@@ -38,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0242-valid-anagram) |
@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0076-minimum-window-substring) |
 ## Array
 |  |
 | ------- |
