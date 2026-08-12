@@ -23,7 +23,12 @@ public:
         ans.push_back(root->val);
     }
     vector<int> postorderTraversal(TreeNode* root) {
-        postorder(root);
+        if(root == NULL){
+            return {};
+        }
+        postorderTraversal(root->left);
+        postorderTraversal(root->right);
+        ans.push_back(root->val);
         return ans;
     }
 };
