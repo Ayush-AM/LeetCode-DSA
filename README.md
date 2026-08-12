@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
@@ -278,9 +280,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
