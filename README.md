@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0767-reorganize-string](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0767-reorganize-string) |
 | [2833-furthest-point-from-origin](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/2833-furthest-point-from-origin) |
 ## Hash Table
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0767-reorganize-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0767-reorganize-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Matrix
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0767-reorganize-string](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -230,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0767-reorganize-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
