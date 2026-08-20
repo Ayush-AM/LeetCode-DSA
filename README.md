@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Math
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
 | ------- |
