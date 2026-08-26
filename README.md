@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0075-sort-colors) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0090-subsets-ii) |
 | [0212-word-search-ii](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0212-word-search-ii) |
@@ -343,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0070-climbing-stairs) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
