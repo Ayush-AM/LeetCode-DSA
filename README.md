@@ -359,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0051-n-queens) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
