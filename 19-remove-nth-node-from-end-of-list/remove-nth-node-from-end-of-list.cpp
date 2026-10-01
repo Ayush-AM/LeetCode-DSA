@@ -35,3 +35,41 @@ public:
         return newHead;
     }
 };
+
+/*
+class Solution {
+public:
+    ListNode* removeNthFromEnd(ListNode* head, int n) {
+        // Create a dummy node to handle edge cases (like deleting the head)
+        ListNode* dummy = new ListNode(0, head);
+        ListNode* curr = head;
+        int length = 0;
+        
+        // Pass 1: Find the total length of the linked list
+        while (curr != nullptr) {
+            length++;
+            curr = curr->next;
+        }
+        
+        // Pass 2: Iterate to the node just before the one we want to delete
+        curr = dummy;
+        int targetPosition = length - n;
+        for (int i = 0; i < targetPosition; i++) {
+            curr = curr->next;
+        }
+        
+        // Delete the nth node from the end by skipping it
+        ListNode* nodeToDelete = curr->next;
+        curr->next = curr->next->next;
+        
+        // Free the memory of the deleted node
+        delete nodeToDelete;
+        
+        // Store the new head before deleting the dummy node
+        ListNode* newHead = dummy->next;
+        delete dummy;
+        
+        return newHead;
+    }
+};
+*/
