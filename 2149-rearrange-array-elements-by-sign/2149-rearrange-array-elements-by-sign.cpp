@@ -2,9 +2,9 @@
 
 class Solution {
 public:
-    std::vector<int> rearrangeArray(std::vector<int>& nums) {
+    vector<int> rearrangeArray(vector<int>& nums) {
         int n = nums.size();
-        std::vector<int> ans(n);
+        vector<int> ans(n);
         
         int posIdx = 0;
         int negIdx = 1;
