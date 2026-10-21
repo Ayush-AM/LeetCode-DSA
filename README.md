@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2833-furthest-point-from-origin](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/2833-furthest-point-from-origin) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Ayush-AM/LeetCode-DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Counting
 |  |
 | ------- |
